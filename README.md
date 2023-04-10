@@ -1,4 +1,11 @@
-# Sher
+![(https://giffiles.alphacoders.com/211/211748.gif)](https://giffiles.alphacoders.com/211/211748.gif)
+
+<br>
+<br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/129580860/230854841-815f4f2a-0dad-4796-877f-96210a616dae.png" />
+</p>
+<br>
 
 ## Описание проекта:
 Проект Sher представляет собой утилиту для поиска файлов и (или) файлов по ключевому слову в определённой директории.
