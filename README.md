@@ -39,3 +39,7 @@ sher.py [-h] -q QUERY [-p PATH] [--file] [--dir]
 python sher.py -q hello.txt -p /home/user/ --file
 python sher.py -q hello -p /home/user/ --dir
 ```
+
+## TODO:
+- Поиск по содержимому файла.
+- Поиск с использованием регулярных выражений.
